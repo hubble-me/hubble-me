@@ -1,4 +1,4 @@
-![hubble](https://github.com/hubble-me/uploads/banner.png)
+![hubble](https://github.com/hubble-me/uploads/blob/main/banner.png)
 
 <h1>HUBBLE</h1>
 <p>Desenvolvendo idéias e compartilhando conhecimentos.</p>
