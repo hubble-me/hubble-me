@@ -3,4 +3,4 @@
 <h1>HUBBLE</h1>
 <p>Desenvolvendo idéias e compartilhando conhecimentos.</p>
 
-Va para o site [aqui](https://hubble.inneo.org).
+Aprenda programação do básico ao avançado e acelere sua evolução na [hubble](https://hubble.inneo.org).
